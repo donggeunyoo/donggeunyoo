@@ -1,5 +1,7 @@
 ## Donggeun Yoo
 
-Linux kernel patches: https://lore.kernel.org/all/?q=f:donggeunyoo.kernel@gmail.com
+Linux kernel contributor — DRM GPU scheduler, amdgpu, and V3D drivers.
 
-donggeunyoo.kernel@gmail.com
+- Blog: https://donggeunyoo.github.io
+- Patches: https://lore.kernel.org/all/?q=f:donggeunyoo.kernel@gmail.com
+- Email: donggeunyoo.kernel@gmail.com
